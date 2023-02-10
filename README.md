@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Pic](https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg)
+
+
 <!--
 **K0tenochek/k0tenochek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --
-! [Картина] (https://www.google.com/searchq=rfhnbyrf+rfhnbyb&oq=rfhnbyrf+rfhnbyb&aqs=chrome..69i57j0i13i512j0i8i13i30l2j0i8i13i15i30i625.63810j0j7&sourceid=chrome&ie=UTF-8#imgrc=h9qo4B8XvamMhM)
+--!>
