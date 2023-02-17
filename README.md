@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-![Pic](https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg)
 
 
 <!--
